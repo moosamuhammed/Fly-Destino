@@ -1,0 +1,38 @@
+
+.h1:hover{
+    background-color: black;
+    color: white;
+}
+.footer{
+    width:00;
+    height:400px;
+    background-color: rgb(5, 5, 71);
+    display: flex;
+   text-align: left;
+justify-content: center;}
+.f1{
+    color: white;
+    margin-top: 50px;
+    margin-right: 150px;
+    font-size: 30px;
+}
+.f2{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.f3{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.mt{
+    margin-top: 50px;
+}
+.a1{
+  width: 100%;
+  height: 700px;
+  background-image: url(https://images.pexels.com/photos/2026324/pexels-photo-2026324.jpeg?auto=compress&cs=tinysrgb&w=1250);
+}
+.mr{
+    margin-right: 50px;
+}
